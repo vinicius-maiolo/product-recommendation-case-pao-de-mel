@@ -33,7 +33,7 @@
 
 ---
 
-- 🧠 **1. Business Understanding**
+- ## 🧠 1. Business Understanding
     - **1st Phase – Exploratory Data Analysis**
         - What is the sales distribution by:
             - Product department
@@ -50,7 +50,7 @@
 
 ---
 
-- ☁️ 2. **Data Understanding & Technological Stack Definitions**
+- ## ☁️ 2. Data Understanding & Technological Stack Definitions
     - **Stack Definition**
         
         <p align="center">
@@ -255,7 +255,7 @@
 
 ---
 
-- 🔧 3. **Data Pipeline Infrastructure (ETL)**
+- ## 🔧 3. Data Pipeline Infrastructure (ETL)
     
     ### 🔄 ETL Steps
     
@@ -289,7 +289,7 @@
 
 ---
 
-- 📈 4. **Data Modeling and Result Analysis & Insights**
+- ## 📈 4. Data Modeling and Result Analysis & Insights
     - **1st Phase – Exploratory Data Analysis Results and Insights**
         
         ### Results
