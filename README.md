@@ -18,7 +18,7 @@
 - **Snacks, Beverages, Frozen Products, and Pantry** combined account for **55% of total sales**.
 - **First and Second days of week concentrate 35%** of weekly sales — with volumes **up to 40% above the average** of other days.
 - **82% of purchases happen between 8 AM and 6 PM**, highlighting prime store hours.
-- **Alcohol sales peak on Thursdays and Fridays (35%)**, a distinct pattern compared to other categories.
+- **Alcohol sales peak on Day 4 and Day 5 (35%)**, a distinct pattern compared to other categories.
 
 ### **Product Affinity & Cross-Sell Opportunities (Apriori Algorithm)**
 
