@@ -1,4 +1,5 @@
-# product-recommendation-case-pao-de-mel
+<img src="https://file.notion.so/f/f/25d1ad8a-548b-4fb9-8ddd-53498eff1b84/f18dcce5-9b94-47d7-8d20-a1dc6ada6835/CoverPaoDeMel.png?table=block&id=1d92330f-c8a0-8061-973b-e8588a27cb39&spaceId=25d1ad8a-548b-4fb9-8ddd-53498eff1b84&expirationTimestamp=1745013600000&signature=xlgC4kU86sxwLwpTJFyiofeFMCgi0BM07sFhMguGERA&downloadName=CoverPaoDeMel.png" alt="Cover" width="1100">
+      </p>
 
 [Notion Link](https://bitter-fedora-901.notion.site/Product-Recommendation-Analysis-Case-Pao-De-Mel-1d62330fc8a0808a89d0c8b9081b40af?pvs=73)
 
